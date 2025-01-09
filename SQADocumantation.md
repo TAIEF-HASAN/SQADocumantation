@@ -17,8 +17,6 @@ Sub Type of <br>Functional</br> testing:
 - **Smoke**
 - **UAT (Acceptance Testing)**
 - **Localization**
-- **Security Testing**
-- **Usability Testing**
-- **Compatibility Testing**
-- **Regression Testing**
-- **Beta Testing** */
+- **Globalization**
+- **Interoperability**
+- **So on**
