@@ -20,3 +20,13 @@ Sub Type of <strong>Functional</strong> testing:
 - **Globalization**
 - **Interoperability**
 - **So on**
+
+Sub Type of <strong>Non-Functional</strong> testing:
+
+- **Performance**
+- **Enduance**
+- **Load**
+- **Volume**
+- **Scalability**
+- **Usability**
+- **So on**
