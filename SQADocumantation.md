@@ -30,3 +30,8 @@ Sub Type of <strong>Non-Functional</strong> testing:
 - **Scalability**
 - **Usability**
 - **So on**
+
+Sub Type of <strong>Maintenance</strong> testing:
+
+- **Regression**
+- **Maintenance**
