@@ -10,7 +10,7 @@ Typically Testing is clasified into three categories.
 
 ![alt text](image.png)
 
-Sub Type of <br>Functional</br> testing:
+Sub Type of <strong>Functional</strong> testing:
 
 - **Unit Testing**
 - **Integration Testing**
