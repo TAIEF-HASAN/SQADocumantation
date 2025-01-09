@@ -8,6 +8,8 @@ Typically Testing is clasified into three categories.
 - **Non-Functional Testing or Performance Testing**
 - **Maintenance (Regration and Maintence)**
 
+![alt text](image.png)
+
 
 /*
 - **Unit Testing**
