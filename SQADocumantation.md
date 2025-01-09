@@ -4,8 +4,12 @@ Here are the software Testing Type:
 
 Typically Testing is clasified into three categories.
 
+- **Functional Testing**
+- **Non-Functional Testing or Performance Testing**
+- **Maintenance (Regration and Maintence)**
 
 
+/*
 - **Unit Testing**
 - **Integration Testing**
 - **System Testing**
@@ -15,4 +19,4 @@ Typically Testing is clasified into three categories.
 - **Usability Testing**
 - **Compatibility Testing**
 - **Regression Testing**
-- **Beta Testing**
+- **Beta Testing** */
