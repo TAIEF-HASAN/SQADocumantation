@@ -10,13 +10,13 @@ Typically Testing is clasified into three categories.
 
 ![alt text](image.png)
 
+Sub Type of <br>Functional</br> testing:
 
-/*
 - **Unit Testing**
 - **Integration Testing**
-- **System Testing**
-- **Acceptance Testing**
-- **Performance Testing**
+- **Smoke**
+- **UAT (Acceptance Testing)**
+- **Localization**
 - **Security Testing**
 - **Usability Testing**
 - **Compatibility Testing**
