@@ -36,4 +36,4 @@ Sub Type of <strong>Maintenance</strong> testing:
 - **Regression**
 - **Maintenance**
 
-This is not the complete list as there are more than <a href="Testing-Type.md"> 150 types of testing <a> types and still adding. Also, noteable is that not all testing types are applicable to all projects but depend on the nature & scope of the project. To explore a variety of testing tools and find the ones that suit your project requirements, visit this list of testing tools.
+This is not the complete list as there are more than <a href="Testing-Type.md"> 150 types of testing <a> types and still adding. Also, noteable is that not all testing types are applicable to all projects but depend on the nature & scope of the project. To explore a variety of testing tools and find the ones that suit your project requirements, <a href="Testing-tools.md">visit this list of testing tools.<a>
