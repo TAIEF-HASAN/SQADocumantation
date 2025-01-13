@@ -1,0 +1,15 @@
+<Course>
+	<Category>Software Development</Category>
+	<Section>Software Testing</Section>
+	<Target_audience>
+		<aud>students</aud>
+		<aud>Software Engineer</aud>
+		<aud>Junior Testers </aud>
+	</Target_audience>
+	<Section>Business Analyist</Section>
+	<Target_audience>
+		<aud>students</aud>
+		<aud>Software Engineer</aud>
+		<aud>Junior Testers </aud>
+	</Target_audience>
+</Course>
