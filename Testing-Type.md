@@ -12,8 +12,68 @@ Types of Software Testing
 A list of 100 Software Testing Types along with definitions. A must read for any QA professional. Consider this your guide to all Software testing types.
 
 Types of Software Testing
+**Acceptance Testing**: Formal testing conducted to determine whether or not a system satisfies its acceptance criteria and to enable the customer to determine whether or not to accept the system. It is usually performed by the customer. Read More on Acceptance Testing
 
-Acceptance Testing: Formal testing conducted to determine whether or not a system satisfies its acceptance criteria and to enable the customer to determine whether or not to accept the system. It is usually performed by the customer. Read More on Acceptance Testing
+**Accessibility Testing**: Type of testing which determines the usability of a product to the people having disabilities (deaf, blind, mentally disabled etc). The evaluation process is conducted by persons having disabilities. Read More on Accessibility Testing
+
+**Active Testing**: Type of testing consisting in introducing test data and analyzing the execution results. It is usually conducted by the testing team.
+
+**Agile Testing**: Software testing practice that follows the principles of the agile manifesto, emphasizing testing from the perspective of customers who will utilize the system. It is usually performed by the QA teams. Read More on Agile Testing
+
+**Age Testing**: Type of testing which evaluates a system’s ability to perform in the future. The evaluation process is conducted by testing teams.
+
+**Ad-hoc Testing**: Testing performed without planning and documentation – the tester tries to ‘break’ the system by randomly trying the system’s functionality. It is performed by the testing team. Read More on Ad-hoc Testing
+
+**Alpha Testing**: Alpha Testing is a type of software testing conducted at the developer’s site to identify bugs, usability issues, and functionality gaps before releasing the product for beta testing. It involves internal testers, such as developers and QA teams, and sometimes select end users in a controlled environment. Read More on Alpha Testing
+
+**Assertion Testing**: Type of testing consisting in verifying if the conditions confirm the product requirements. It is performed by the testing team.
+
+**API Testing**: Testing technique similar to Unit Testing in that it targets the code level. Api Testing differs from Unit Testing in that it is typically a QA task and not a developer task. Read More on API Testing
+
+**All-pairs Testing**: Combinatorial testing method that tests all possible discrete combinations of input parameters. It is performed by the testing teams.
+
+**Automated Testing**: Testing technique that uses Automation Testing tools to control the environment set-up, test execution and results reporting. It is performed by a computer and is used inside the testing teams. Read More on Automated Testing
+
+**Basis Path Testing**: A testing mechanism which derives a logical complexity measure of a procedural design and use this as a guide for defining a basic set of execution paths. It is used by testing teams when defining test cases. Read More on Basis Path Testing
+
+**Backward Compatibility Testing**: Testing method which verifies the behavior of the developed software with older versions of the test environment. It is performed by testing team.
+
+**Beta Testing**: Final testing before releasing application for commercial purpose. It is typically done by end-users or others.
+
+**Benchmark Testing**: Testing technique that uses representative sets of programs and data designed to evaluate the performance of computer hardware and software in a given configuration. It is performed by testing teams. Read More on Benchmark Testing
+
+**Big Bang Integration Testing**: Testing technique which integrates individual program modules only when everything is ready. It is performed by the testing teams.
+
+**Binary Portability Testing**: Technique that tests an executable application for portability across system platforms and environments, usually for conformation to an ABI specification. It is performed by the testing teams.
+
+**Boundary Value Testing**: Software testing technique in which tests are designed to include representatives of boundary values. It is performed by the QA testing teams. Read More on Boundary Value Testing
+
+**Bottom Up Integration Testing**: In bottom-up Integration Testing, module at the lowest level are developed first and other modules which go towards the ‘main’ program are integrated and tested one at a time. It is usually performed by the testing teams.
+
+**Branch Testing**: Testing technique in which all branches in the program source code are tested at least once. This is done by the developer.
+
+**Breadth Testing**: A test suite that exercises the full functionality of a product but does not test features in detail. It is performed by testing teams.
+
+**Black box Testing**: A method of software testing that verifies the functionality of an application without having specific knowledge of the application’s code/internal structure. Tests are based on requirements and functionality. It is performed by QA teams. Read More on Black box Testing
+
+**Code-driven Testing**: Testing technique that uses testing frameworks (such as xUnit) that allow the execution of unit tests to determine whether various sections of the code are acting as expected under various circumstances. It is performed by the development teams.
+
+**Compatibility Testing**: Testing technique that validates how well a software performs in a particular hardware/software/operating system/network environment. It is performed by the testing teams. Read More on Compatibility Testing
+
+**Comparison Testing**: Testing technique which compares the product strengths and weaknesses with previous versions or other similar products. Can be performed by tester, developers, product managers or product owners. Read More on Component Testing
+
+**Component Testing**: Testing technique similar to unit testing but with a higher level of integration – testing is done in the context of the application instead of just directly testing a specific method. Can be performed by testing or development teams.
+
+**Configuration Testing**: Testing technique which determines minimal and optimal configuration of hardware and software, and the effect of adding or modifying resources such as memory, disk drives and CPU. Usually it is performed by the Performance Testing engineers. Read More on Configuration Testing
+
+**Condition Coverage Testing**: Type of software testing where each condition is executed by making it true and false, in each of the ways at least once. It is typically made by the Automation Testing teams.
+
+**Compliance Testing**: Type of testing which checks whether the system was developed in accordance with standards, procedures and guidelines. It is usually performed by external companies which offer “Certified OGC Compliant” brand.
+
+**Concurrency Testing**: Multi-user testing geared towards determining the effects of accessing the same application code, module or database records. It it usually done by performance engineers. Read More on Concurrency Testing
+
+**Conformance Testing**: The process of testing that an implementation conforms to the specification on which it is based. It is usually performed by testing teams. Read More on Conformance Testing
+**Acceptance Testing**: Formal testing conducted to determine whether or not a system satisfies its acceptance criteria and to enable the customer to determine whether or not to accept the system. It is usually performed by the customer. Read More on Acceptance Testing
 Accessibility Testing: Type of testing which determines the usability of a product to the people having disabilities (deaf, blind, mentally disabled etc). The evaluation process is conducted by persons having disabilities. Read More on Accessibility Testing
 Active Testing: Type of testing consisting in introducing test data and analyzing the execution results. It is usually conducted by the testing team.
 Agile Testing: Software testing practice that follows the principles of the agile manifesto, emphasizing testing from the perspective of customers who will utilize the system. It is usually performed by the QA teams. Read More on Agile Testing
