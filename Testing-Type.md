@@ -222,6 +222,67 @@ Types of Software Testing
 **White box Testing**: Testing technique based on knowledge of the internal logic of an application’s code and includes tests like coverage of code statements, branches, paths, conditions. It is performed by software developers. Read More on White box Testing
 
 **Workflow Testing**: Scripted end-to-end testing technique which duplicates specific workflows which are expected to be utilized by the end-user. It is usually conducted by testing teams. Read More on Workflow Testing
+**Mutation Testing**: Method of software testing which involves modifying programs’ source code or byte code in small ways in order to test sections of the code that are seldom or never accessed during normal tests execution. It is normally conducted by testers. Read More on Mutation Testing
+
+**Modularity-driven Testing**: Software testing technique which requires the creation of small, independent scripts that represent modules, sections, and functions of the application under test. It is usually performed by the testing team.
+
+**Non-functional Testing**: Testing technique which focuses on testing of a software application for its non-functional requirements. Can be conducted by the performance engineers or by manual testing teams. Read More on Non-functional Testing
+
+**Negative Testing**: Also known as “test to fail” – testing method where the tests’ aim is showing that a component or system does not work. It is performed by manual or automation testers. Read More on Negative Testing
+
+**Operational Testing**: Testing technique conducted to evaluate a system or component in its operational environment. Usually it is performed by testing teams. Read More on Operational Testing
+
+**Orthogonal array Testing**: Systematic, statistical way of testing which can be applied in user interface testing, system testing, Regression Testing, configuration testing and Performance Testing. It is performed by the testing team. Read More on Orthogonal array Testing
+
+**Pair Testing**: Software development technique in which two team members work together at one keyboard to test the software application. One does the testing and the other analyzes or reviews the testing. This can be done between one Tester and Developer or Business Analyst or between two testers with both participants taking turns at driving the keyboard.
+
+**Passive Testing**: Testing technique consisting in monitoring the results of a running system without introducing any special test data. It is performed by the testing team.
+
+**Parallel Testing**: Testing technique which has the purpose to ensure that a new application which has replaced its older version has been installed and is running correctly. It is conducted by the testing team. Read More on Parallel Testing
+
+**Path Testing**: Typical white box testing which has the goal to satisfy coverage criteria for each logical path through the program. It is usually performed by the development team. Read More on Path Testing
+
+**Penetration Testing**: Testing method which evaluates the security of a computer system or network by simulating an attack from a malicious source. Usually they are conducted by specialized penetration testing companies. Read More on Penetration Testing
+
+**Performance Testing**: Functional testing conducted to evaluate the compliance of a system or component with specified performance requirements. It is usually conducted by the performance engineer. Read More on Performance Testing
+
+**Qualification Testing**: Testing against the specifications of the previous release, usually conducted by the developer for the consumer, to demonstrate that the software meets its specified requirements.
+
+**Ramp Testing**: Type of testing consisting in raising an input signal continuously until the system breaks down. It may be conducted by the testing team or the performance engineer.
+
+**Regression Testing**: Type of software testing that seeks to uncover software errors after changes to the program (e.g. bug fixes or new functionality) have been made, by retesting the program. It is performed by the testing teams. Read More on Regression Testing
+
+**Recovery Testing**: Testing technique which evaluates how well a system recovers from crashes, hardware failures, or other catastrophic problems. It is performed by the testing teams. Read More on Recovery Testing
+
+**Requirements Testing**: Testing technique which validates that the requirements are correct, complete, unambiguous, and logically consistent and allows designing a necessary and sufficient set of test cases from those requirements. It is performed by QA teams.
+
+**Security Testing**: A process to determine that an information system protects data and maintains functionality as intended. It can be performed by testing teams or by specialized security-testing companies. Read More on Security Testing
+
+**Sanity Testing**: Testing technique which determines if a new software version is performing well enough to accept it for a major testing effort. It is performed by the testing teams. Read More on Sanity Testing
+
+**Scenario Testing**: Testing activity that uses scenarios based on a hypothetical story to help a person think through a complex problem or system for a testing environment. It is performed by the testing teams. Read More on Scenario Testing
+
+**Scalability Testing**: Part of the battery of non-functional tests which tests a software application for measuring its capability to scale up – be it the user load supported, the number of transactions, the data volume etc. It is conducted by the performance engineer. Read More on Scalability Testing
+
+**Statement Testing**: White box testing which satisfies the criterion that each statement in a program is executed at least once during program testing. It is usually performed by the development team.
+
+**Static Testing**: A form of software testing where the software isn’t actually used it checks mainly for the sanity of the code, algorithm, or document. It is used by the developer who wrote the code. Read More on Static Testing
+
+**Stability Testing**: Testing technique which attempts to determine if an application will crash. It is usually conducted by the performance engineer. Read More on Stability Testing
+
+**Smoke Testing**: Testing technique which examines all the basic components of a software system to ensure that they work properly. Typically, smoke testing is conducted by the testing team, immediately after a software build is made. Read More on Smoke Testing
+
+**Storage Testing**: Testing type that verifies the program under test stores data files in the correct directories and that it reserves sufficient space to prevent unexpected termination resulting from lack of space. It is usually performed by the testing team. Read More on Storage Testing
+
+**Stress Testing**: Testing technique which evaluates a system or component at or beyond the limits of its specified requirements. It is usually conducted by the performance engineer. Read More on Stress Testing
+
+**Structural Testing**: White box testing technique which takes into account the internal structure of a system or component and ensures that each program statement performs its intended function. It is usually performed by the software developers.
+
+**System Testing**: The process of testing an integrated hardware and software system to verify that the system meets its specified requirements. It is conducted by the testing teams in both development and target environment. Read More on System Testing
+
+**System integration Testing**: Testing process that exercises a software system’s coexistence with others. It is usually performed by the testing teams. Read More on System integration Testing
+
+**Top Down Integration Testing**: Testing technique that involves starting at the top of a system hierarchy at the user interface and using stubs to test from the top down until the entire system has been implemented. It is conducted by the testing teams.
 
 Accessibility Testing: Type of testing which determines the usability of a product to the people having disabilities (deaf, blind, mentally disabled etc). The evaluation process is conducted by persons having disabilities. Read More on Accessibility Testing
 Active Testing: Type of testing consisting in introducing test data and analyzing the execution results. It is usually conducted by the testing team.
