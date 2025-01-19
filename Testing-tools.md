@@ -8,7 +8,7 @@ Testing Tools in software testing can be defined as products that support variou
 
 There are tons of software testing tools available in the market, and with the plethora of choices it becomes difficult to zero in on the best testing tools for your project. The following list categorizes, ranks and grades the different software testing tools in the market. For each tool – important features, USP and download links are mentioned.
 
-👍 Top Software Testing Tools List (Recommended by QAs)
+## 👍 Top Software Testing Tools List (Recommended by QAs)
 These software testing tools list help organize the end to end test cycle
 
 1) TestRail
