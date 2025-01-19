@@ -12,21 +12,23 @@ There are tons of software testing tools available in the market, and with the p
 These software testing tools list help organize the end to end test cycle
 
 
-<div style="border: 1px solid #ddd; border-radius: 5px; padding: 20px; margin: 20px 0; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);">
-    <h2>1. TestRail</h2>
-    <a href="https://www.testrail.com/?utm_source=guru99&utm_medium=cpc&utm_campaign=testing-tools">TestRail</a> is your source for scalable, customizable, web-based test case management. Set up in just minutes with our cloud-based/SaaS solution, or install on TestRail your own server.
-    <h3>#1 Top Pick</h3>
-    <h2><img src="image-3.png" alt="TestRail" style="float: right; margin-left: 10px; width: 200px; height: 50px; position: relative; top: -20px;"> TestRail</h2>
-    <div style="display: flex; align-items: center;">
-        <span style="font-size: 1.5em; color: gold;">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
-        <span style="margin-left: 10px;">5.0</span>
-    </div>
-    <p>Document test cases with screenshots and expected results.</p>
-    <p><strong>Integrations:</strong> Jira, Bug Trackers, Automation Tools, API, etc.</p>
-    <p><strong>Supported Platforms:</strong> Windows, Linux, Web</p>
-    <p><strong>Free Trial:</strong> 30-Day Free Trial</p>
-    <a href="https://www.testrail.com/?utm_source=guru99&utm_medium=cpc&utm_campaign=testing-tools" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">Visit TestRail</a> 
-</div>
+## 1. TestRail
+
+[TestRail](https://www.testrail.com/?utm_source=guru99&utm_medium=cpc&utm_campaign=testing-tools) is your source for scalable, customizable, web-based test case management. Set up in just minutes with our cloud-based/SaaS solution, or install on TestRail your own server.
+
+### #1 Top Pick
+
+![TestRail](image-3.png)
+
+**Rating:** ★★★★★ 5.0
+
+**Integrations:** Jira, Bug Trackers, Automation Tools, API, etc.
+
+**Supported Platforms:** Windows, Linux, Web
+
+**Free Trial:** 30-Day Free Trial
+
+[Visit TestRail](https://www.testrail.com/?utm_source=guru99&utm_medium=cpc&utm_campaign=testing-tools)
 
 - Efficiently manage manual and automated test cases, plans, and runs.
 - Get real-time insights into testing progress with informative dashboards, metrics, and activity reports.
@@ -35,9 +37,8 @@ These software testing tools list help organize the end to end test cycle
 - Integrate with tools in your CI/CD/DevOps pipeline including JIRA, Bugzilla, Jenkins, TFS and more.
 - Enterprise edition designed for large teams & mission-critical projects.
 - Support for Docker containers.
-<div style="text-align: center;">
-    <a href="https://www.testrail.com/?utm_source=guru99&utm_medium=cpc&utm_campaign=testing-tools" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: orange; text-align: center; text-decoration: none; border-radius: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">▶ Visit TestRail</a>
-</div>
+
+[▶ Visit TestRail](https://www.testrail.com/?utm_source=guru99&utm_medium=cpc&utm_campaign=testing-tools)
 --------------------------------------------------------------------------------------------------------------------------
 2) Zephyr Enterprise
 Zephyr Enterprise is more than a test management solution; we are a test management partner ready to help you achieve all your testing activities from a single tool.
