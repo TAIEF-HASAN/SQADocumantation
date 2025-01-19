@@ -25,17 +25,20 @@ These software testing tools list help organize the end to end test cycle
     <p><strong>Integrations:</strong> Jira, Bug Trackers, Automation Tools, API, etc.</p>
     <p><strong>Supported Platforms:</strong> Windows, Linux, Web</p>
     <p><strong>Free Trial:</strong> 30-Day Free Trial</p>
-    <a href="https://www.testrail.com/?utm_source=guru99&utm_medium=cpc&utm_campaign=testing-tools" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">Visit TestRail</a>
+    <a href="https://www.testrail.com/?utm_source=guru99&utm_medium=cpc&utm_campaign=testing-tools" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">Visit TestRail</a> 
 </div>
 
-Efficiently manage manual and automated test cases, plans, and runs.
-Get real-time insights into testing progress with informative dashboards, metrics, and activity reports.
-Boost efficiency with milestones, personal to-do lists, and email notifications.
-Document test cases with screenshots and expected results. Use the flexible built-in templates or create your own custom templates.
-Integrate with tools in your CI/CD/DevOps pipeline including JIRA, Bugzilla, Jenkins, TFS and more.
-Enterprise edition designed for large teams & mission-critical projects.
-Support for Docker containers.
-Visit TestRail >>
+- Efficiently manage manual and automated test cases, plans, and runs.
+- Get real-time insights into testing progress with informative dashboards, metrics, and activity reports.
+- Boost efficiency with milestones, personal to-do lists, and email notifications.
+- Document test cases with screenshots and expected results. Use the flexible built-in templates or create your own custom templates.
+- Integrate with tools in your CI/CD/DevOps pipeline including JIRA, Bugzilla, Jenkins, TFS and more.
+- Enterprise edition designed for large teams & mission-critical projects.
+- Support for Docker containers.
+<div style="text-align: center;">
+    <a href="https://www.testrail.com/?utm_source=guru99&utm_medium=cpc&utm_campaign=testing-tools" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: orange; text-align: center; text-decoration: none; border-radius: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">▶ Visit TestRail</a>
+</div>
+--------------------------------------------------------------------------------------------------------------------------
 2) Zephyr Enterprise
 Zephyr Enterprise is more than a test management solution; we are a test management partner ready to help you achieve all your testing activities from a single tool.
 
