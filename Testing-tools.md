@@ -15,8 +15,7 @@ These software testing tools list help organize the end to end test cycle
 <br><a href="https://www.testrail.com/?utm_source=guru99&utm_medium=cpc&utm_campaign=testing-tools"> TestRail </a> is your source for scalable, customizable, web-based test case management. Set up in just minutes with our cloud-based/SaaS solution, or install on TestRail your own server.
 
 #1 Top Pick
-TestRail
-TestRail
+TestRail                                        ![alt text](image-2.png)
  5.0
 Document test cases with screenshots and expected results.
 
