@@ -12,37 +12,27 @@ There are tons of software testing tools available in the market, and with the p
 These software testing tools list help organize the end to end test cycle
 
 ##  1. TestRail
+```
 <br><a href="https://www.testrail.com/?utm_source=guru99&utm_medium=cpc&utm_campaign=testing-tools"> TestRail </a> is your source for scalable, customizable, web-based test case management. Set up in just minutes with our cloud-based/SaaS solution, or install on TestRail your own server.
-```markdown
-<div class="card" style="border: 1px solid #ccc; padding: 16px; margin: 16px 0; border-radius: 8px;">
-    <h2>#1 Top Pick</h2>
-    <img src="image-2.png" alt="TestRail" style="width: 100px; height: auto;">
-    <div style="display: flex; align-items: center; margin: 8px 0;">
+
+<div style="border: 1px solid #ccc; padding: 10px;">
+    <div>#1 Top Pick</div>
+    TestRail ![alt text](image-2.png)
+    <div style="display: flex; align-items: center;">
         <span style="font-size: 1.5em; color: gold;">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
         <span style="margin-left: 10px;">5.0</span>
     </div>
-    <p>Document test cases with screenshots and expected results.</p>
-    <p>Integrations: Jira, Bug Trackers, Automation Tools, API, etc.</p>
-    <p>Supported Platforms: Windows, Linux, Web</p>
-    <p>Free Trial: 30-Day Free Trial</p>
-    <a href="https://www.testrail.com/?utm_source=guru99&utm_medium=cpc&utm_campaign=testing-tools" style="color: #007bff; text-decoration: none;">Visit TestRail >></a>
+    Document test cases with screenshots and expected results.
+
+    Integrations: Jira, Bug Trackers, Automation Tools, API, etc.
+
+    Supported Platforms: Windows, Linux, Web
+
+    Free Trial: 30-Day Free Trial
+
+    Visit TestRail
 </div>
 ```
-<div>#1 Top Pick</div>
-TestRail                                        ![alt text](image-2.png)
-<div style="display: flex; align-items: center;">
-    <span style="font-size: 1.5em; color: gold;">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
-    <span style="margin-left: 10px;">5.0</span>
-</div>
-Document test cases with screenshots and expected results.
-
-Integrations: Jira, Bug Trackers, Automation Tools, API, etc.
-
-Supported Platforms: Windows, Linux, Web
-
-Free Trial: 30-Day Free Trial
-
-Visit TestRail
 Efficiently manage manual and automated test cases, plans, and runs.
 Get real-time insights into testing progress with informative dashboards, metrics, and activity reports.
 Boost efficiency with milestones, personal to-do lists, and email notifications.
