@@ -3,10 +3,8 @@
 
 ![alt text](image-1.png)
 
-Best Software Testing Tools
-
 ##  What are Testing Tools?
-Testing Tools in software testing can be defined as products that support various test activities starting from planning, requirement gathering, build creation, test execution, defect logging and test analysis. These testing tools are mainly used for testing software firmness, thoroughness, and other performance parameters.
+Testing Tools in software testing can be defined as products that support various test activities starting from planning, requirement gathering, build creation, test execution, defect logging and test analysis. These testing tools are mainly used for <strong> testing software </strong> firmness, thoroughness, and other performance parameters.
 
 There are tons of software testing tools available in the market, and with the plethora of choices it becomes difficult to zero in on the best testing tools for your project. The following list categorizes, ranks and grades the different software testing tools in the market. For each tool – important features, USP and download links are mentioned.
 
