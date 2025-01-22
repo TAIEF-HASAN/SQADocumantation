@@ -51,3 +51,11 @@ Here are important strateegies in software engineering:
 <h3>Program Testing</h3>
 
 **Program Testing** in software testing is a method of executing an actual software program with the aim of testing program behavior and finding errors. The software program is executated with test case data to analyse the program behavior or response to the test data. A good program testing is one which has high chances of finding bugs.
+
+<h3>Summary of Software Testing Basics</h3>
+
+- **Define Software Testing/Software Testing Definition:** Software testing is defined as an activity to check weather the actual results match the expected results and to ensure that the software system is Defect free.
+- Testing is important because software bugs could be expensive or even dengerous.
+- The important reasons for using software testing are: cost-effective, security, product quality, and customer satisfaction.
+- Typically testing is clasified into three categories functional testing, non-functional testing or performance testing and maintenance.
+- The important strategies in software engineering are: unit testing, integration testing, valdation testing and system testing.
