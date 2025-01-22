@@ -45,3 +45,5 @@ Here are important strateegies in software engineering:
 **Unit Testing:** This software testing basic approch is followed by the programmer to test the unit of the program. It helps developer to know whether the individual unit of the code is working properly or not.
 
 **Integration testing:** If focuses on the construction and design of the software. it's need to see that the integrated units are working correctly or not.
+
+**System testing:** In this method, the software is complied as a whole and tested as a whole. This testing strategy checks the functionality, security, portability, amongest others.
