@@ -47,3 +47,7 @@ Here are important strateegies in software engineering:
 **Integration testing:** If focuses on the construction and design of the software. it's need to see that the integrated units are working correctly or not.
 
 **System testing:** In this method, the software is complied as a whole and tested as a whole. This testing strategy checks the functionality, security, portability, amongest others.
+
+<h3>Program Testing</h3>
+
+**Program Testing** in software testing is a method of executing an actual software program with the aim of testing program behavior and finding errors. The software program is executated with test case data to analyse the program behavior or response to the test data. A good program testing is one which has high chances of finding bugs.
